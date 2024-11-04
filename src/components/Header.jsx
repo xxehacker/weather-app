@@ -1,11 +1,11 @@
-import React, { useEffect, useContext } from "react";
+import React, { useEffect, useContext , useState } from "react";
 import { SunSnow, MapPin } from "lucide-react";
 import { getCurrentLocation } from "../api/currentLocationApi";
 import WeatherContext from "../context/weatherContext";
 
 function Header() {
   const { setLocation, mylocation, setMylocation } = useContext(WeatherContext);
-  const [inputValue, setInputValue] = React.useState("");
+  const [inputValue, setInputValue] = useState("");
 
   useEffect(() => {
     const fetchLocation = async () => {

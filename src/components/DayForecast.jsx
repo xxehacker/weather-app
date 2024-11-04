@@ -30,4 +30,4 @@ function DayForecast({ day, icon, lowTemp, highTemp, tempRange }) {
   );
 }
 
-export default DayForecast;
+export default DayForecast

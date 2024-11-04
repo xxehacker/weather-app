@@ -1,4 +1,3 @@
-import React from 'react'
 import { Wind, Sun, Moon, Droplet, Eye, Thermometer, Highlighter } from "lucide-react"
 
 const defaultProps = {

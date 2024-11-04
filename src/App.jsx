@@ -1,8 +1,9 @@
 import React from "react";
-import Header from "./components/Header";
-import SideCards from "./components/SideCards";
-import MainCards from "./components/MainCards";
-import Map from "./components/Map";
+// import Header from "./components/Header";
+// import SideCards from "./components/SideCards";
+// import MainCards from "./components/MainCards";
+// import Map from "./components/Map";
+import {Header , SideCards , MainCards , Map} from "./components/index"
 
 function App() {
 

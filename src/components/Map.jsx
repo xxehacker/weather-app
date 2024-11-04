@@ -27,7 +27,7 @@ function Map() {
             url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
           />
           <Marker position={position}>
-            <Popup>A marker is a point on a map.</Popup>
+            <Popup>A marker is a point on a map</Popup>
           </Marker>
            <MapUpdater center={position} />
         </MapContainer>

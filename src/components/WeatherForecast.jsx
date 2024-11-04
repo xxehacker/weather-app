@@ -1,5 +1,6 @@
 import React from "react";
-import { TodayWeatherCard } from "./TodayWeatherCard";
+// import { TodayWeatherCard } from "./TodayWeatherCard";
+import { TodayWeatherCard } from "./index";
 import WeatherContext from "../context/weatherContext";
 import { TrendingUpDown } from "lucide-react";
 

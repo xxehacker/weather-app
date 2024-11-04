@@ -1,4 +1,3 @@
-// import { Cloud, Sun, Moon } from "lucide-react";
 export const TodayWeatherCard = ({ data }) => {
   
   return (

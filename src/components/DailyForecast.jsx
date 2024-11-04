@@ -1,7 +1,8 @@
 import React from "react";
 import { Calendar } from "lucide-react";
 import WeatherContext from "../context/weatherContext";
-import DayForecast from "./DayForecast";
+// import DayForecast from "./DayForecast";
+import { DailyForecast } from "./index";
 
 const DailyForecast = () => {
   const { weatherData } = React.useContext(WeatherContext);

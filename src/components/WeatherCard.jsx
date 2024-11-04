@@ -58,4 +58,4 @@ function WeatherCard() {
   );
 }
 
-export default WeatherCard;
+export default WeatherCard
