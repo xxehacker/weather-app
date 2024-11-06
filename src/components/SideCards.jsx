@@ -1,6 +1,4 @@
 import React from "react";
-// import WeatherCard from "./WeatherCard";
-// import DailyForecast from "./DailyForecast";
 import {WeatherCard , DailyForecast} from "./index";
 
 function SideCards() {

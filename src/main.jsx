@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import "./index.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { WeatherProvider } from "./context/weatherContext";
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query"; // Make sure to import from @tanstack/react-query
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query"; 
 
 const router = createBrowserRouter([
   {

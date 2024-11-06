@@ -1,6 +1,5 @@
 import React from "react";
 
-
 function DayForecast({ day, icon, lowTemp, highTemp, tempRange }) {
   
   const WeatherIcon = ({ icon }) => {
@@ -30,4 +29,4 @@ function DayForecast({ day, icon, lowTemp, highTemp, tempRange }) {
   );
 }
 
-export default DayForecast
+export default DayForecast;

@@ -1,6 +1,4 @@
 import React from "react";
-// import WeatherDashboard from "./WeatherDashboard";
-// import WeatherForecast from "./WeatherForecast";
 import {WeatherDashboard , WeatherForecast} from "./index";
 import WeatherContext from "../context/weatherContext";
 
