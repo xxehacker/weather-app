@@ -7,6 +7,7 @@ const WeatherContext = React.createContext();
 export const WeatherProvider = ({ children }) => {
   const [weatherData, setWeatherData] = React.useState(null);
   const [location, setLocation] = React.useState("New York");
+  const [mylocation, setMylocation] = React.useState(null);
 
   return (
     <WeatherContext.Provider
@@ -14,7 +15,9 @@ export const WeatherProvider = ({ children }) => {
         weatherData,
         setWeatherData,
         location,
-        setLocation
+        setLocation,
+        mylocation,
+        setMylocation,
       }}
     >
       {children}
