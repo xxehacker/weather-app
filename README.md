@@ -4,7 +4,7 @@
 <p align="left">
 	<em><code>❯ A React.js and Tailwind CSS weather app that shows real-time weather details based on city names. Enter a city, and get instant updates on temperature, humidity, and conditions.</code></em>
 </p>
-<div style="width: 5%; height:5%;margin: 0 auto">
+<div style="width: 5%; height:5%;margin: 0 auto" align="center">
 	<img src="https://uxwing.com/wp-content/themes/uxwing/download/weather/reainbow-icon.png"/>
 </div>
 
