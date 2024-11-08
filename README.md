@@ -155,5 +155,5 @@ Run weather-app using the following command:
 
 ## 🎗 License
 
-This project is protected under the MIT License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/](https://github.com/xxehacker/weather-app/blob/main/LICENSE) file.
+This project is protected under the MIT License. For more details, refer to the [LICENSE](https://github.com/xxehacker/weather-app/blob/main/LICENSE) file.
 
